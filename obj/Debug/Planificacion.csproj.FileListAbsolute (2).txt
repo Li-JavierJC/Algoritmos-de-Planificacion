@@ -1,0 +1,60 @@
+C:\Users\return0\source\repos\RoundRobin\RoundRobin\bin\Debug\RoundRobin.exe.config
+C:\Users\return0\source\repos\RoundRobin\RoundRobin\bin\Debug\RoundRobin.exe
+C:\Users\return0\source\repos\RoundRobin\RoundRobin\bin\Debug\RoundRobin.pdb
+C:\Users\return0\source\repos\RoundRobin\RoundRobin\obj\Debug\RoundRobin.csprojAssemblyReference.cache
+C:\Users\return0\source\repos\RoundRobin\RoundRobin\obj\Debug\RoundRobin.Form1.resources
+C:\Users\return0\source\repos\RoundRobin\RoundRobin\obj\Debug\RoundRobin.Properties.Resources.resources
+C:\Users\return0\source\repos\RoundRobin\RoundRobin\obj\Debug\RoundRobin.SeleccionaAlgoritmos.resources
+C:\Users\return0\source\repos\RoundRobin\RoundRobin\obj\Debug\RoundRobin.SolicitaProceso.resources
+C:\Users\return0\source\repos\RoundRobin\RoundRobin\obj\Debug\RoundRobin.csproj.GenerateResource.cache
+C:\Users\return0\source\repos\RoundRobin\RoundRobin\obj\Debug\RoundRobin.csproj.CoreCompileInputs.cache
+C:\Users\return0\source\repos\RoundRobin\RoundRobin\obj\Debug\RoundRobin.exe
+C:\Users\return0\source\repos\RoundRobin\RoundRobin\obj\Debug\RoundRobin.pdb
+I:\Programas Extra\Programas\Algoritmos de Planificación\RoundRobin\bin\Debug\RoundRobin.exe.config
+I:\Programas Extra\Programas\Algoritmos de Planificación\RoundRobin\bin\Debug\RoundRobin.exe
+I:\Programas Extra\Programas\Algoritmos de Planificación\RoundRobin\bin\Debug\RoundRobin.pdb
+I:\Programas Extra\Programas\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.csprojResolveAssemblyReference.cache
+I:\Programas Extra\Programas\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.Form1.resources
+I:\Programas Extra\Programas\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.Properties.Resources.resources
+I:\Programas Extra\Programas\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.SeleccionaAlgoritmos.resources
+I:\Programas Extra\Programas\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.SolicitaProceso.resources
+I:\Programas Extra\Programas\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.csproj.GenerateResource.cache
+I:\Programas Extra\Programas\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.csproj.CoreCompileInputs.cache
+I:\Programas Extra\Programas\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.exe
+I:\Programas Extra\Programas\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.pdb
+C:\Users\Javier\Documents\Visual\Algoritmos de Planificación\RoundRobin\bin\Debug\RoundRobin.exe.config
+C:\Users\Javier\Documents\Visual\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.exe
+C:\Users\Javier\Documents\Visual\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.pdb
+C:\Users\Javier\Documents\Visual\Algoritmos de Planificación\RoundRobin\bin\Debug\RoundRobin.exe
+C:\Users\Javier\Documents\Visual\Algoritmos de Planificación\RoundRobin\bin\Debug\RoundRobin.pdb
+C:\Users\Javier\Documents\Visual\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.csprojAssemblyReference.cache
+C:\Users\Javier\Documents\Visual\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.Form1.resources
+C:\Users\Javier\Documents\Visual\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.Properties.Resources.resources
+C:\Users\Javier\Documents\Visual\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.SeleccionaAlgoritmos.resources
+C:\Users\Javier\Documents\Visual\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.SolicitaProceso.resources
+C:\Users\Javier\Documents\Visual\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.csproj.GenerateResource.cache
+C:\Users\Javier\Documents\Visual\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\Programa_SO\Algoritmos de Planificación\RoundRobin\bin\Debug\RoundRobin.exe.config
+C:\Users\Javier\Desktop\Programa_SO\Algoritmos de Planificación\RoundRobin\bin\Debug\RoundRobin.exe
+C:\Users\Javier\Desktop\Programa_SO\Algoritmos de Planificación\RoundRobin\bin\Debug\RoundRobin.pdb
+C:\Users\Javier\Desktop\Programa_SO\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.csprojAssemblyReference.cache
+C:\Users\Javier\Desktop\Programa_SO\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.Form1.resources
+C:\Users\Javier\Desktop\Programa_SO\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.Properties.Resources.resources
+C:\Users\Javier\Desktop\Programa_SO\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.SeleccionaAlgoritmos.resources
+C:\Users\Javier\Desktop\Programa_SO\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.SolicitaProceso.resources
+C:\Users\Javier\Desktop\Programa_SO\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.csproj.GenerateResource.cache
+C:\Users\Javier\Desktop\Programa_SO\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\Programa_SO\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.exe
+C:\Users\Javier\Desktop\Programa_SO\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.pdb
+C:\Users\Javier\Desktop\Programa_SO\Nueva carpeta\Algoritmos de Planificación\RoundRobin\bin\Debug\RoundRobin.exe.config
+C:\Users\Javier\Desktop\Programa_SO\Nueva carpeta\Algoritmos de Planificación\RoundRobin\bin\Debug\RoundRobin.exe
+C:\Users\Javier\Desktop\Programa_SO\Nueva carpeta\Algoritmos de Planificación\RoundRobin\bin\Debug\RoundRobin.pdb
+C:\Users\Javier\Desktop\Programa_SO\Nueva carpeta\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.csprojAssemblyReference.cache
+C:\Users\Javier\Desktop\Programa_SO\Nueva carpeta\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.Form1.resources
+C:\Users\Javier\Desktop\Programa_SO\Nueva carpeta\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.Properties.Resources.resources
+C:\Users\Javier\Desktop\Programa_SO\Nueva carpeta\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.SeleccionaAlgoritmos.resources
+C:\Users\Javier\Desktop\Programa_SO\Nueva carpeta\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.Registrar_trabajo.resources
+C:\Users\Javier\Desktop\Programa_SO\Nueva carpeta\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.csproj.GenerateResource.cache
+C:\Users\Javier\Desktop\Programa_SO\Nueva carpeta\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\Programa_SO\Nueva carpeta\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.exe
+C:\Users\Javier\Desktop\Programa_SO\Nueva carpeta\Algoritmos de Planificación\RoundRobin\obj\Debug\RoundRobin.pdb
